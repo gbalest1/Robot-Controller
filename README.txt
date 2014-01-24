@@ -1,0 +1,1 @@
+The circuit can be viewed by opening the '.xise' file in Xilinx ISE Project Navigator. I used a Papilio One 500K FPGA Design Board and the LogicStart MegaWing Input/Output Board in order to implement my circuit. See the attached PDF's and JPEG image for instructions and a visual reference on how to physically wire your circuit.
